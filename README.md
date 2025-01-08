@@ -1,4 +1,5 @@
 # NutriGen-AI
+<br>
 Considering the current daily life scenarios and health issues people are facing, due to
 imbalance of calories consumption. People are facing Fatigue, Nutrient deficiencies,
 gastrointestinal abnormalities, such as constipation and our body slows down our
